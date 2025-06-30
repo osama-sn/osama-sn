@@ -1,5 +1,5 @@
-<h1 align="center">👋 أهلاً بيك، أنا أسامة عصام</h1>
-<h3 align="center">مبرمج Flutter شغوف من مصر 🇪🇬</h3>
+<h1 align="center">👋 Hi there, I'm Osama Essam</h1>
+<h3 align="center">A passionate Flutter developer from Egypt 🇪🇬</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
@@ -7,17 +7,17 @@
 
 ---
 
-### 🧠 من أنا؟
+### 🧠 About Me
 
-- 🔭 شغّال حاليًا على: **OurFalak - تطبيق توصيل**
-- 🚀 عندي خبرة قوية في: **Flutter, Firebase, Laravel, Riverpod**
-- 🧑‍💻 بحب أتعلم دايمًا، حاليًا بتعلم: **Cyber Security & Exploit Development**
-- 💬 اسألني عن: Flutter • UI/UX • Clean Code • Architecture
-- 📫 تواصل معايا: [osama@example.com](mailto:osama@example.com)
+- 🔭 Currently working on: **Sapq-Team**
+- 🚀 Strong experience in: **Flutter, Firebase Riverpod**
+- 🧑‍💻 Always learning — now exploring: **Cyber Security & Exploit Development**
+- 💬 Ask me about: Flutter • UI/UX • Clean Code • Architecture
+- 📫 Reach me at: [osamaessamKhalifa@gmail.com]
 
 ---
 
-### 🛠️ الأدوات اللي بستخدمها
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -29,23 +29,7 @@
 
 ---
 
-### 💼 أبرز مشاريعي
-
-#### 📱 Attendance AI
-نظام ذكي لتتبع الحضور باستخدام التعرف على الوجه  
-<img src="https://github.com/username/attendance-ai/assets/demo.gif" width="400"/>
-
-#### 🚚 OurFalak Delivery
-نظام كامل للتوصيل - Flutter (عميل) + Laravel (لوحة التحكم)  
-<img src="https://github.com/username/ourfalak/assets/demo.gif" width="400"/>
-
-#### 🎓 BioFantasy
-منصة تعليمية تفاعلية في علم الأحياء لطلاب الثانوي  
-<img src="https://github.com/username/biofantasy/assets/demo.gif" width="400"/>
-
----
-
-### 📊 إحصائياتي على GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamaessam-dev&show_icons=true&theme=tokyonight" height="165" />
@@ -54,14 +38,13 @@
 
 ---
 
-### 📫 تواصل معايا
+### 📫 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/osamaessam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:osama@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/osamaessam-eldin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="osamaessamkhalifa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">💙 شكراً لزيارتك لبروفايلي! لو عجبك شغلي، متنساش تعمل ⭐ على المشاريع 💙</p>
+<p align="center">💙 Thanks for visiting my profile! If you like my work, don’t forget to ⭐ my repos 💙</p>
