@@ -57,7 +57,7 @@
 ---
 
 <p align="center">💙 Thanks for visiting my profile! If you like my work, feel free to ⭐ my repositories 💙</p> -->
-<h1 align="center">💀 Osama Essam 💀</h1>
+<!-- <h1 align="center">💀 Osama Essam 💀</h1>
 <h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security 🇪🇬</h3>
 
 <p align="center">
@@ -165,5 +165,103 @@ Kali Linux | Bash | Basic Python
 
 ---
 
-<p align="center">⚡ Eat. Sleep. Hack. Repeat. ⚡</p>
+<p align="center">⚡ Eat. Sleep. Hack. Repeat. ⚡</p> -->
+# 👋 Hi, I'm Osama Essam
+
+🚀 Flutter Developer | MERN Stack Developer (Junior)
+
+---
+
+## 🧑‍💻 About Me
+
+* 📱 Flutter Developer with real-world experience building and publishing apps
+* 🔥 Built **5+ production apps** for Android & iOS
+* 🧠 Strong in state management: BLoC, Riverpod, GetX
+* 🌐 Also learning & building as a **Full Stack MERN Developer**
+* 🎯 Focused on clean architecture & scalable apps
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+* Flutter & Dart
+* BLoC / Cubit / Riverpod / GetX / Provider
+* Firebase (Auth, Firestore, FCM)
+* REST APIs (Dio)
+
+### 🌐 Full Stack (MERN)
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+
+### ⚙️ Tools & Concepts
+
+* Git & GitHub
+* Clean Architecture & MVC/MVVM
+* CI/CD (Codemagic, GitHub Actions)
+* Testing (Unit & Widget Testing)
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Evntown – Events App
+
+* Discover and manage events بسهولة
+* Built with Flutter + BLoC + APIs
+
+---
+
+### 📌 Quran App – "نحيا بالقرآن"
+
+* +50K downloads 🎉
+* Audio, Video, Notifications
+* Built with Flutter + Firebase
+
+---
+
+### 📌 Hodorak – Smart Attendance System
+
+* Face Recognition + Geolocation
+* TensorFlow Lite integration
+* Real-time tracking system
+
+---
+
+### 📌 QuizHub – Student Tracker
+
+* +35 screens system
+* Supports teachers, students & parents
+* Advanced UI & data tracking
+
+---
+
+## 📊 GitHub Stats
+
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama-sn\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [osamaessamkhalifa@gmail.com](mailto:osamaessamkhalifa@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/osamaessam-eldin
+* 💻 GitHub: https://github.com/osama-sn
+
+---
+
+## 💡 Currently Learning
+
+* Advanced MERN Stack
+* System Design Basics
+* Backend scalability
+
+---
+
+⭐ *Always learning, building, and improving.*
+
 
